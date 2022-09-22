@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "name": "Trà Lipton",
+        "image": "https://tandoorvietnam.com/wp-content/uploads/2020/06/lipton-Tea.jpg",
+        "price": 40000,
+        "owner": "Tocotoco",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Tuyển chọn từ 100% lá trà non, trải qua quy trình Hấp kết hợp Sấy để bảo toàn hương vị tự nhiên. Là giải pháp thanh sạch cơ thể tiện lợi cho người trẻ hiện đại"
+    },
+    {
+        "id": 1,
+        "name": "Matcha",
+        "image": "https://www.napoli.vn/Document/Images/matcha_ice_blended_master.jpg",
+        "price": 30000,
+        "owner": "Tocotoco",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Matcha là bột được nghiền từ búp non của cây trà xanh Tencha – giống trà đặc trưng của Nhật Bản."
+    },
+    {
+        "id": 2,
+        "name": "Trà Sữa Dâu",
+        "image": "https://bizweb.dktcdn.net/100/314/104/articles/fff.png?v=1599899697257",
+        "price": 30000,
+        "owner": "Ding Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Sự ngọt ngào thơm ngon đi kèm màu hồng bắt mắt của trà sữa dâu chắc chắn sẽ mê hoặc mọi cô nàng mê trà sữa đấy. "
+    },
+    {
+        "id": 3,
+        "name": "Trà Sữa Bạc Hà",
+        "image": "https://jarvis.vn/wp-content/uploads/2019/05/cach-pha-che-tra-sua-bac-ha.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Trà sữa bạc hà là một trong số đó, thậm chí đồ uống này còn xuất hiện trong menu của hầu hết các thương hiệu trà sữa nổi tiếng và được khách hàng gọi thường xuyên. "
+    },
+    {
+        "id": 4,
+        "name": "Nước Chanh",
+        "image": "https://vinmec-prod.s3.amazonaws.com/images/20210314_090326_726577_nuoc-chanh-dieu-tri-t.max-800x800.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Nước chanh là một loại nước giải khát quen thuộc đối với mọi người. Ngoài những công dụng có lợi cho sức khỏe thì nước chanh cũng có những mặt hạn chế ảnh hưởng đến cơ thể mà chúng ta hay hiểu lầm và mắc phải."
+    }
+]
